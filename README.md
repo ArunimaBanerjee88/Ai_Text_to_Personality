@@ -99,7 +99,7 @@ Kaggle
 
 Example:
 
-https://www.kaggle.com/datasets
+https://www.kaggle.com/datasets/datasnaek/mbti-type
 
 ---
 
