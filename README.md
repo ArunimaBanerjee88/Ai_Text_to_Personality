@@ -345,8 +345,3 @@ This project is open-source and available under the **MIT License**.
 
 ⭐ If you found this project useful, consider **starring the repository**.
 
-* **Project architecture diagram**
-* **Streamlit UI screenshot section**
-* **ML performance graphs (accuracy, confusion matrix)**
-
-It will make your GitHub look **10× more professional**.
