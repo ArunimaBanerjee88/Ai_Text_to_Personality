@@ -19,8 +19,6 @@ The project also includes a **Streamlit web interface** where users can input te
 
 # 🧩 NLP Concept
 
-![NLP Illustration](https://upload.wikimedia.org/wikipedia/commons/1/19/NLP_pipeline.png)
-
 Natural Language Processing (NLP) enables computers to understand and analyze human language.  
 This project applies NLP techniques to **extract meaningful patterns from text and predict personality traits using machine learning models.**
 
